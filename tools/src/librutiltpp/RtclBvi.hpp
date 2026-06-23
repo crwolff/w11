@@ -17,6 +17,8 @@
 
 #include "tcl.h"
 
+#include <cstdint>
+
 namespace Retro {
 
   class RtclBvi {

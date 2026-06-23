@@ -19,6 +19,7 @@
 #define included_Retro_RtimerFd 1
 
 #include <time.h>
+#include <cstdint>
 
 #include "Rfd.hpp"
 #include "Rtime.hpp"

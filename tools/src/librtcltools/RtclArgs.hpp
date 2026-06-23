@@ -33,6 +33,7 @@
 #include <vector>
 #include <limits>
 #include <sstream>
+#include <cstdint>
 
 #include "RtclNameSet.hpp"
 
